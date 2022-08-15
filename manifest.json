@@ -1,0 +1,15 @@
+{
+    "manifest_version" : 3,
+    "name": "Out of this World New Tab Extension",
+    "description": "An extension for new tabs with an outer space theme.",
+    "version": "1.0",
+    "icons": {
+        "16": "icon_16.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newpage.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
