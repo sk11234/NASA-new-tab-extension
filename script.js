@@ -30,5 +30,5 @@ function getImage() {
             }
         })
 }
-
+//Fastest way to display image
 getImage();
